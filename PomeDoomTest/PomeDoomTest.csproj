@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ManagedDoom\ManagedDoom.csproj" />
+    <ProjectReference Include="..\PomeDoom\PomeDoom.csproj" />
   </ItemGroup>
 
   <ItemGroup>
