@@ -43,6 +43,7 @@ Pomegranate Doom is a Doom source port based off of Managed Doom. Managed Doom's
 ## License
 
 Pomegranate Doom is distributed under the [GPLv2 license](Licenses/LICENSE_ManagedDoom.txt).  
+Link to [Managed Doom](https://github.com/sinshu/managed-doom/tree/master).
 Pomegranate Doom uses the following libraries:
 
 * [Silk.NET](https://github.com/dotnet/Silk.NET) by the the Silk.NET team ([MIT License](Licenses/LICENSE_SilkNET.txt))
