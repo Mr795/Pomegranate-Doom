@@ -1,32 +1,8 @@
-# Managed Doom
+# Pomegranate Doom
 
 ![Doom II MAP01 screenshot](screenshots/doom2-map01.png)
 
-Managed Doom is a Doom source port written in C#. The entire code is manually translated from [Linux Doom](https://github.com/id-Software/DOOM) with some effort to make it natural C# code. Most functionalities necessary for single player game are implemented, and now it's in the playable state.
-
-## Screenshots
-
-![Doom E1M1](screenshots/doom-e1m1.png)
-
-![Doom II MAP11](screenshots/doom2-map11.png)
-
-![Mr.DooM 30 MAP29](screenshots/mrdoom30-map29.png)
-
-![Eternal Doom MAP29](screenshots/eternal-map29.png)
-
-![Requiem MAP13](screenshots/requiem-map13.png)
-
-![Zombies TC MAP01](screenshots/zombies-map01.png)
-
-![Batman Doom MAP27](screenshots/batman-map27.png)
-
-## Demo video
-
-https://www.youtube.com/watch?v=WIdIOzQFVq0  
-
-[![Demo video](https://img.youtube.com/vi/WIdIOzQFVq0/0.jpg)](https://www.youtube.com/watch?v=WIdIOzQFVq0)
-
-## Todo
+Pomegranate Doom is a Doom source port based off of Managed Doom. Managed Doom's entire code is manually translated from [Linux Doom](https://github.com/id-Software/DOOM) with some effort to make it natural C# code. Most functionalities necessary for single player game are implemented, and now it's in the playable state.
 
 * __Software renderering__  
     - [x] Front-to-back rendering using BSP
