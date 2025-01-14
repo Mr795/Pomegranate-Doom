@@ -1,7 +1,5 @@
 # Pomegranate Doom
 
-![Doom II MAP01 screenshot](screenshots/doom2-map01.png)
-
 Pomegranate Doom is a Doom source port based off of Managed Doom. Managed Doom's entire code is manually translated from [Linux Doom](https://github.com/id-Software/DOOM) with some effort to make it natural C# code. Most functionalities necessary for single player game are implemented, and now it's in the playable state.
 
 * __Software renderering__  
