@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedDoom", "ManagedDoom\ManagedDoom.csproj", "{0ADDF6FA-4AF5-4A8B-BA6F-260A6F70FDD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomeDoom", "PomeDoom\PomeDoom.csproj", "{0ADDF6FA-4AF5-4A8B-BA6F-260A6F70FDD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedDoomTest", "ManagedDoomTest\ManagedDoomTest.csproj", "{3C8EB699-FD61-4952-87AD-33A0044A0CB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomeDoomTest", "PomeDoomTest\PomeDoomTest.csproj", "{3C8EB699-FD61-4952-87AD-33A0044A0CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
