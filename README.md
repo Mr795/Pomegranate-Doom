@@ -42,19 +42,18 @@ Pomegranate Doom is a Doom source port based off of Managed Doom. Managed Doom's
 
 ## License
 
-Pomegranate Doom is distributed under the [GPLv2 license](licenses/LICENSE_ManagedDoom.txt).  
+Pomegranate Doom is distributed under the [GPLv2 license](Licenses/LICENSE_ManagedDoom.txt).  
 Pomegranate Doom uses the following libraries:
 
-* [Silk.NET](https://github.com/dotnet/Silk.NET) by the the Silk.NET team ([MIT License](licenses/LICENSE_SilkNET.txt))
-* [TrippyGL](https://github.com/SilkCommunity/TrippyGL) by Thomas Mizrahi ([MIT License](licenses/LICENSE_TrippyGL.txt))
-* [TimGM6mb](https://musescore.org/en/handbook/soundfonts-and-sfz-files#gm_soundfonts) by Tim Brechbill ([GPLv2 license](licenses/LICENSE_TimGM6mb.txt))
-* [DrippyAL](https://github.com/sinshu/DrippyAL) ([MIT License](licenses/LICENSE_DrippyAL.txt))
-* [MeltySynth](https://github.com/sinshu/meltysynth/) ([MIT license](licenses/LICENSE_MeltySynth.txt))
+* [Silk.NET](https://github.com/dotnet/Silk.NET) by the the Silk.NET team ([MIT License](Licenses/LICENSE_SilkNET.txt))
+* [TrippyGL](https://github.com/SilkCommunity/TrippyGL) by Thomas Mizrahi ([MIT License](Licenses/LICENSE_TrippyGL.txt))
+* [DrippyAL](https://github.com/sinshu/DrippyAL) ([MIT License](Licenses/LICENSE_DrippyAL.txt))
+* [MeltySynth](https://github.com/sinshu/meltysynth/) ([MIT license](Licenses/LICENSE_MeltySynth.txt))
 
 Silk.NET uses the following native libraries:
 
-* [GLFW](https://www.glfw.org/) ([zlib/libpng license](licenses/LICENSE_GLFW.txt))
-* [OpenAL Soft](https://openal-soft.org/) ([LGPL license](licenses/LICENSE_OpenALSoft.txt))
+* [GLFW](https://www.glfw.org/) ([zlib/libpng license](Licenses/LICENSE_GLFW.txt))
+* [OpenAL Soft](https://openal-soft.org/) ([LGPL license](Licenses/LICENSE_OpenALSoft.txt))
 
 ## References
 
