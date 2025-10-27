@@ -14,10 +14,8 @@ namespace ManagedDoomTest
         public static readonly string Plutonia = "PLUTONIA.WAD";
         public static readonly string Freedoom1 = "FREEDOOM1.WAD";
         public static readonly string Freedoom2 = "FREEDOOM2.WAD";
-
-        public static readonly string Requiem = "REQUIEM.WAD";
-        public static readonly string TntBlood = "TNTBLOOD.WAD";
-        public static readonly string MementoMori = "MM.WAD";
-        public static readonly string MementoMori2 = "MM2.WAD";
+        public static readonly string FreeDM = "FREEDM.WAD";
+        public static readonly string DoomU = "DOOMU.WAD";
+        public static readonly string Chex = "CHEX.WAD";
     }
 }
