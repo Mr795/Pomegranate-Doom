@@ -34,6 +34,9 @@ namespace ManagedDoom
             "DOOM1.WAD",
             "FREEDOOM2.WAD",
             "FREEDOOM1.WAD",
+            "FREEDM.WAD",
+            "DOOMU.WAD",
+            "CHEX.WAD",
         };
 
         public static string GetExeDirectory()
