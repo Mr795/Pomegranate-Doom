@@ -174,10 +174,13 @@ namespace ManagedDoom
                 {
                     case "doom2":
                     case "freedoom2":
+                    case "freedm":
                         return GameVersion.Version109;
                     case "doom":
                     case "doom1":
                     case "freedoom1":
+                    case "doomu":
+                    case "chex":
                         return GameVersion.Ultimate;
                     case "plutonia":
                     case "tnt":
@@ -198,9 +201,12 @@ namespace ManagedDoom
                     case "plutonia":
                     case "tnt":
                     case "freedoom2":
+                    case "freedm":
                         return GameMode.Commercial;
                     case "doom":
                     case "freedoom1":
+                    case "doomu":
+                    case "chex":
                         return GameMode.Retail;
                     case "doom1":
                         return GameMode.Shareware;
